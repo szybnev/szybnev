@@ -1,18 +1,30 @@
-## Hello, I`m Alex Nemmo :)
+# Hello there 👋
+I'm Alex, a 18 years old begginer security specialist, programmer and designer from Russia🇷🇺
 
+## Skills
+- 👨‍💻 Python, PHP, Bash
+- ⚙️ VS Code, Pycharm, SublimeText 
+- 👁️ SCSS, CSS, HTML, GULP, PUG
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=sublime&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
-<!--
-**AlexNemmo/AlexNemmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I`m working on:
+ - Asynchronous parser
+ - Telegram bots/userbots
+ - Own telegram channel
 
-Here are some ideas to get you started:
+## 📝 Blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal website and blog: in developing...
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNemmo&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
