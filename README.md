@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm Alex, a 18 years old begginer security specialist, programmer and designer from Russia🇷🇺
+I'm Alex, a 18 years old begginer security specialist, programmer and designer from Russia 🇷🇺
 
 ## Skills
 - 👨‍💻 Python, PHP, Bash
