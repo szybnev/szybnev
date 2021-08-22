@@ -1,6 +1,8 @@
 # Hello there 👋
 I'm Alex, a 18 years old begginer security specialist, programmer and designer from Russia 🇷🇺
 
+![Github logo](https://octodex.github.com/images/privateinvestocat.jpg)
+
 ## Skills
 - 👨‍💻 Python, PHP, Bash
 - ⚙️ VS Code, Pycharm, SublimeText 
