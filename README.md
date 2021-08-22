@@ -1,7 +1,9 @@
-# Hello there 👋
-I'm Alex, a 18 years old begginer security specialist, programmer and designer from Russia 🇷🇺
+<h1 align=center> Hello there 👋 </h1>
+<p align=center> I'm Alex, a 18 years old begginer security specialist, programmer and designer from Russia 🇷🇺</p>
 
-![Github logo](https://octodex.github.com/images/privateinvestocat.jpg)
+<p align=center>
+ <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="Github logo" width="500" />
+</p>
 
 ## Skills
 - 👨‍💻 Python, PHP, Bash
