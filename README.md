@@ -1,5 +1,5 @@
-<h1 align=center> Hello there 👋 </h1>
-<p align=center> I'm Alex, a 18 years old begginer security specialist, programmer from Russia 🇷🇺</p>
+<h1 align=center>Hello there 👋</h1>
+<p align=center>I'm Alex, a 18 years old begginer security specialist, programmer from Russia 🇷🇺</p>
 
 <p align=center>
  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="Github logo" width="500" />
