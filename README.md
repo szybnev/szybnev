@@ -25,7 +25,6 @@
  - Telegram bots/userbots
  - Own telegram channel
 <a href='https://t.me/journal_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
- - Start to learn Golang
 
 ## 📝 Blogs
 
