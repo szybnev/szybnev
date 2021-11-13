@@ -1,5 +1,5 @@
 <h1 align=center>Hello there 👋</h1>
-<p align=center>I'm Alex, a 18 years old begginer security specialist, programmer from Russia 🇷🇺</p>
+<p align=center>I'm Zybnev Sergey, a 18 years old Highly qualified cybersecurity specialist, programmer from Russia</p>
 
 <p align=center>
  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="Github logo" width="500" />
@@ -23,8 +23,8 @@
 ## I`m working on:
  - Asynchronous parsers
  - Telegram bots/userbots
- - Own telegram channel
-<a href='https://t.me/journal_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
+ - My telegram channel
+<a href='https://t.me/dnevnik_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
 
 ## 📝 Blogs
 
