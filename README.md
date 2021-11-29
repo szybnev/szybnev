@@ -25,6 +25,8 @@
  - Telegram bots/userbots
  - My telegram channel
 <a href='https://t.me/dnevnik_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
+ - My instagram account
+<a href='https://instagram.com/dnevnik_infosec'> ![Instagram account](https://img.shields.io/badge/instagram-follow%20me-orange) </a>
 
 ## 📝 Blogs
 
