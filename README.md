@@ -31,7 +31,6 @@
 ## 📝 Blogs
 
 - Personal website and blog: in developing...
-- <a href='https://instagram.com/dnevnik_infosec'>
 
 ## GitHub Stats
 
