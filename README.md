@@ -6,9 +6,9 @@
 </p>
 
 ## Skills
-- 👨‍💻 Python, PHP, Bash
-- ⚙️ VS Code, Pycharm, SublimeText 
-- 👁️ SCSS, CSS, HTML, GULP, PUG
+- 👨‍💻 Python, PHP, Bash, Batch, C#
+- ⚙️ VS Code, Pycharm, SublimeText
+- 👁️ SCSS, CSS, HTML, GULP, PUG, JS
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -31,6 +31,7 @@
 ## 📝 Blogs
 
 - Personal website and blog: in developing...
+- <a href='https://instagram.com/dnevnik_infosec'>
 
 ## GitHub Stats
 
