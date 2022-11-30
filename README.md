@@ -37,4 +37,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szybnev&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ## TryHackMe
-<a href="https://tryhackme.com/p/ANemmo"> <img src="https://tryhackme-badges.s3.amazonaws.com/ANemmo.png" alt="TryHackMe"> </a>
+<a target="_blank" href="https://tryhackme.com/p/ANemmo"> <img src="https://tryhackme-badges.s3.amazonaws.com/ANemmo.png" alt="TryHackMe"> </a>
