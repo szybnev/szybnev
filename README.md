@@ -1,5 +1,8 @@
 <h1 align=center>Hello there 👋</h1>
-<p align=center>I'm Zybnev Sergey, a 19 years old Highly qualified cybersecurity specialist, programmer from Russia</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=500&lines=Hi%2C+i'm+Zybnev+Sergey!;Hi%2C+i'm+pentester!">
+</p>
 
 <p align=center>
  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="Github logo" width="500" />
@@ -34,4 +37,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szybnev&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ## TryHackMe
-![tryhackme stats](https://raw.githubusercontent.com/ANemmo/ANemmo/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/ANemmo.png" alt="TryHackMe">
