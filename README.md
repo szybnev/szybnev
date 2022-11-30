@@ -7,8 +7,8 @@
 
 ## Skills
 - 👨‍💻 Python, PHP, Bash, PowerShell, Batch, C#, Rust (in progress)
-- ⚙️ VS Code, Pycharm, SublimeText
-- 👁️ SCSS, CSS, HTML, GULP, PUG, JS
+- ⚙️ VS Code, Pycharm, SublimeText, vim
+- 👁️ SCSS, CSS, HTML, JS, Flutter
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -34,4 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szybnev&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ## TryHackMe
-![tryhackme stats](https://raw.githubusercontent.com/szybnev/szybnev/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/ANemmo/ANemmo/master/assets/thm_propic.png)
