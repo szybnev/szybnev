@@ -6,7 +6,7 @@
 </p>
 
 ## Skills
-- 👨‍💻 Python, PHP, Bash, Batch, C#
+- 👨‍💻 Python, PHP, Bash, PowerShell, Batch, C#, Rust (in progress)
 - ⚙️ VS Code, Pycharm, SublimeText
 - 👁️ SCSS, CSS, HTML, GULP, PUG, JS
 
