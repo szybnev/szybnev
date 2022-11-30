@@ -24,14 +24,14 @@
  - Asynchronous parsers
  - Telegram bots/userbots
  - My telegram channel
+ - CLI tools
 <a href='https://t.me/dnevnik_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
- - My instagram account
-<a href='https://instagram.com/dnevnik_infosec'> ![Instagram account](https://img.shields.io/badge/instagram-follow%20me-orange) </a>
 
 ## 📝 Blogs
-
 - Personal website and blog: in developing...
 
 ## GitHub Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szybnev&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+## TryHackMe
+![tryhackme stats](https://raw.githubusercontent.com/szybnev/szybnev/master/assets/thm_propic.png)
