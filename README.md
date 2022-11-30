@@ -24,8 +24,8 @@
  - Asynchronous parsers
  - Telegram bots/userbots
  - My telegram channel
- - CLI tools
 <a href='https://t.me/dnevnik_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
+ - CLI tools
 
 ## 📝 Blogs
 - Personal website and blog: in developing...
