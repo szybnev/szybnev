@@ -31,7 +31,7 @@
 
 ## 📝 Projects
 - Personal website https://szybnev.cc
-- Articles for Codeby.net https://codeby.net/search/274548/
+- Articles for Codeby.net https://codeby.net/members/szybnev.99529/
 - Telegram channel with 1k+ subscribers https://t.me/dnevnik_infosec
 
 ## TryHackMe
