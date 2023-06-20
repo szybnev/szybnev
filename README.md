@@ -34,9 +34,6 @@
 - Articles for Codeby.net https://codeby.net/search/274548/
 - Telegram channel with 1k+ subscribers https://t.me/dnevnik_infosec
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szybnev&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
 ## TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/szybnev.png" alt="TryHackMe">
 
