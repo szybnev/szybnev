@@ -28,11 +28,12 @@
 <a href='https://t.me/dnevnik_infosec'> ![Telegram channel](https://img.shields.io/badge/telegram-follow%20me-blue) </a>
  - CLI tools
  - GUI programms
+ - Docker Learning
 
 ## 📝 Projects
 - Personal website https://szybnev.cc
 - Articles for Codeby.net https://codeby.net/members/szybnev.99529/
-- Telegram channel with 1k+ subscribers https://t.me/dnevnik_infosec
+- Telegram channel with 2k+ subscribers https://t.me/dnevnik_infosec
 
 ## TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/szybnev.png" alt="TryHackMe">
