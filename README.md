@@ -32,8 +32,8 @@
 
 ## 📝 Projects
 - Personal website https://szybnev.cc
-- Articles for Codeby.net https://codeby.net/members/szybnev.99529/
-- Telegram channel with 2k+ subscribers https://t.me/poxek
+- Telegram channel with 13k+ subscribers https://t.me/poxek
+- Build own EdTech startup!
 
 ## TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/szybnev.png" alt="TryHackMe">
