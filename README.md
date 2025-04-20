@@ -6,6 +6,12 @@
  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="Github logo" width="500" />
 </p>
 
+<p align="center">
+  Visitor count<br>
+      <img src="https://profile-counter.glitch.me/szybnev/count.svg" />
+  </a>
+</p>
+
 ## Skills
 - 👨‍💻 Python, PHP, Bash, PowerShell, Batch, C#, Rust, Go
 - ⚙️ VS Code, Pycharm, SublimeText, vim, Fleet
